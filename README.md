@@ -1,6 +1,6 @@
-# rv32I-test-soc
+# rv32-test-soc
 
-A simple RV32I-based SoC for **hardware testing, peripheral validation, and basic SoC experiments**.
+A simple RV32-based SoC for **hardware testing, peripheral validation, and basic SoC experiments**.
 
 ---
 
