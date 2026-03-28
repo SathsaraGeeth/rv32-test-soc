@@ -14,7 +14,7 @@ module uart #(
     // RX
     output  logic  [7:0]                    o_deq_rx_data,
     output  logic                           o_deq_rx_ready,
-    output  logic                           i_deq_rx_valid,
+    input   logic                           i_deq_rx_valid,
 
     output  logic                           o_rx_full,
     output  logic                           o_rx_empty,
