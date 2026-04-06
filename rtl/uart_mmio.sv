@@ -164,6 +164,6 @@ module uart_mmio #(
             end
         end
     end
-                /* reg write from cpu end */
+    /* reg write from cpu end */
 endmodule : uart_mmio
 /* verilator lint_on WIDTHEXPAND */
