@@ -17,7 +17,7 @@ A simple RV32-based SoC for **hardware testing, peripheral validation, and basic
 ## Project Structure
 
 ### 1. RTL (`/rtl`)
-- `core.sv`                 : RV32I core implementation
+- `core.sv`                 : RV32 core implementation
 - `soc.sv`                  : Top-level SoC module
 - `spm.sv`                  : Scratchpad memory
 - `uart.sv`                 : UART implementation
