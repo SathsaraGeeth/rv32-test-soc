@@ -5,7 +5,7 @@ A simple RV32-based SoC for **hardware testing, peripheral validation, and basic
 ---
 
 ## Features
-- RV32I single-cycle core (from PicoRV32)
+- RV32 multi-cycle core (from PicoRV32)
 - Scratchpad Memory (SPM)
 - Boot ROM
 - GPIO
